@@ -1,0 +1,64 @@
+body {
+background-color: rgb(220, 220, 220);
+text-align: center;
+text-decoration: ;
+}
+ h1 {
+ 	color: black;
+ 	font-family: fantasy;
+  text-align: center;
+}
+ body {
+    font-family: "Bradley Hand ITC", cursive; 
+    text-align: center; 
+}
+
+
+
+img {
+	max-width: 80%; 
+    height: 300; 
+    margin-bottom: 20px; 
+    position: relative;
+    border: 2px solid #ccc; 
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    float: center;
+
+}
+
+p {
+    font-size: 25px; 
+    line-height: 1.5; 
+    max-width: 100%; 
+    color: rebeccapurple;
+}
+
+h2 {
+	 font-family: Bradley Hand ITC, serif;
+}	
+h4 {
+	color: rebeccapurple;
+}
+a:hover {
+    color: darkred;
+}	
+
+a {
+	color: blue;
+	text-decoration: none;
+}
+.kem {
+	box-shadow: 5px 5px 3px black;
+	border-radius: 35px;
+}
+
+.kemi {
+	border-radius: 35px;
+	box-shadow: 5px 5px 3px deeppink;
+}
+#kemdy img {
+	width: 500px;
+	max-height: 600px ;
+}
+
+
